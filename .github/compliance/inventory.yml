@@ -1,5 +1,3 @@
 inventory:
 - source: DirectOwners
   isProduction: false 
-  items:
-  - id: arunpant@microsoft.com
